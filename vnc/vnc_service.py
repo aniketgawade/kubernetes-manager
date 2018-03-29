@@ -108,7 +108,6 @@ class VncService(VncCommon):
         return service_ipam_subnet_uuid
 
     def _get_specified_fip_pool(self, specified_fip_pool_fq_name_str):
-	import pdb; pdb.set_trace()
         if specified_fip_pool_fq_name_str == None:
 	    return None
 
