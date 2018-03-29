@@ -1,0 +1,51 @@
+<?xml-stylesheet type="text/xsl" href="/universal_parse.xsl"?>
+<kube_introspect type="rlist">
+<PodDatabaseList type="sandesh">
+<pod_uuid type="string">0</pod_uuid></PodDatabaseList>
+<NamespaceDatabaseList type="sandesh">
+<namespace_uuid type="string">0</namespace_uuid></NamespaceDatabaseList>
+<ServiceDatabaseList type="sandesh">
+<service_uuid type="string">0</service_uuid></ServiceDatabaseList>
+<NetworkPolicyDatabaseList type="sandesh">
+<network_policy_uuid type="string">0</network_policy_uuid></NetworkPolicyDatabaseList>
+<IngressDatabaseList type="sandesh">
+<ingress_uuid type="string">0</ingress_uuid></IngressDatabaseList>
+<LoadbalancerDatabaseList type="sandesh">
+<lb_uuid type="string">0</lb_uuid></LoadbalancerDatabaseList>
+<LoadbalancerListenerDatabaseList type="sandesh">
+<lbl_uuid type="string">0</lbl_uuid></LoadbalancerListenerDatabaseList>
+<LoadbalancerPoolDatabaseList type="sandesh">
+<lbp_uuid type="string">0</lbp_uuid></LoadbalancerPoolDatabaseList>
+<LoadbalancerMemberDatabaseList type="sandesh">
+<lbm_uuid type="string">0</lbm_uuid></LoadbalancerMemberDatabaseList>
+<HealthMonitorDatabaseList type="sandesh">
+<hm_uuid type="string">0</hm_uuid></HealthMonitorDatabaseList>
+<VirtualMachineDatabaseList type="sandesh">
+<vm_uuid type="string">0</vm_uuid></VirtualMachineDatabaseList>
+<VirtualRouterDatabaseList type="sandesh">
+<vr_uuid type="string">0</vr_uuid></VirtualRouterDatabaseList>
+<VirtualMachineInterfaceDatabaseList type="sandesh">
+<vmi_uuid type="string">0</vmi_uuid></VirtualMachineInterfaceDatabaseList>
+<VirtualNetworkDatabaseList type="sandesh">
+<vn_uuid type="string">0</vn_uuid></VirtualNetworkDatabaseList>
+<InstanceIpDatabaseList type="sandesh">
+<iip_uuid type="string">0</iip_uuid></InstanceIpDatabaseList>
+<ProjectDatabaseList type="sandesh">
+<project_uuid type="string">0</project_uuid></ProjectDatabaseList>
+<DomainDatabaseList type="sandesh">
+<domain_uuid type="string">0</domain_uuid></DomainDatabaseList>
+<SecurityGroupDatabaseList type="sandesh">
+<sg_uuid type="string">0</sg_uuid></SecurityGroupDatabaseList>
+<FloatingIpPoolDatabaseList type="sandesh">
+<fip_pool_uuid type="string">0</fip_pool_uuid></FloatingIpPoolDatabaseList>
+<FloatingIpDatabaseList type="sandesh">
+<fip_uuid type="string">0</fip_uuid></FloatingIpDatabaseList>
+<NetworkIpamDatabaseList type="sandesh">
+<network_ipam_uuid type="string">0</network_ipam_uuid></NetworkIpamDatabaseList>
+<KubeGreenletStackList type="sandesh">
+</KubeGreenletStackList>
+<KubeApiConnectionStatus type="sandesh">
+</KubeApiConnectionStatus>
+<MastershipStatus type="sandesh">
+</MastershipStatus>
+</kube_introspect>
